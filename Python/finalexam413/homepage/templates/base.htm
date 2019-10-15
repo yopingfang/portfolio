@@ -1,0 +1,34 @@
+## this is the skeleton of all pages on in this app - it defines the basic html tags
+<!DOCTYPE html>
+<html>
+    <meta charset="UTF-8">
+    <head>
+
+        <title><%block name="title">413 Final</%block></title>
+
+        ## jquery
+        <script src="${ STATIC_URL }homepage/media/jquery-3.3.1.js"></script>
+        ## bootstrap
+        <script src="${ STATIC_URL }homepage/media/bootstrap-4.0.0/js/bootstrap.bundle.js"></script>
+        <link rel="stylesheet" href="${ STATIC_URL }homepage/media/bootstrap-4.0.0/css/bootstrap.sandstone-theme.min.css" />
+
+        ## render the static file links with the same name as this template
+        <script src="/django_mako_plus/dmp-common.min.js"></script>
+        ${ django_mako_plus.links(self) }
+
+    </head>
+    <body>
+
+        <div id="finalbanner">
+            2019 413 Final Exam
+        </div>
+
+
+        <main>
+            <%block name="content">
+                Site content goes here in sub-templates.
+            </%block>
+        </main>
+
+    </body>
+</html>

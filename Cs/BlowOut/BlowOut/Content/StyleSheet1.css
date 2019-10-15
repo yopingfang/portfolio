@@ -1,0 +1,24 @@
+﻿body {
+}
+
+.myFooterText {
+    font-style : italic;
+}
+
+.full-img {
+    width : 100%;
+    height : 100%;
+}
+.bach-quote {
+    font-size: medium;
+    font-style: italic;
+    text-align: center;
+}
+.quote-author {
+    font-size: small;
+    text-align: right;
+}
+.instr-title {
+    font-size: x-large;
+    text-align: center;
+}

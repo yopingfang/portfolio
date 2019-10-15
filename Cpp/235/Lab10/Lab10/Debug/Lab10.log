@@ -1,0 +1,21 @@
+﻿  Source.cpp
+d:\users\yoping\documents\cs stuff\235\lab10\lab10\quicksort.h(131): warning C4018: '>': signed/unsigned mismatch
+  d:\users\yoping\documents\cs stuff\235\lab10\lab10\quicksort.h(130): note: while compiling class template member function 'int QuickSort<int>::partition(::size_t,::size_t,::size_t)'
+  d:\users\yoping\documents\cs stuff\235\lab10\lab10\source.cpp(99): note: see reference to function template instantiation 'int QuickSort<int>::partition(::size_t,::size_t,::size_t)' being compiled
+  d:\users\yoping\documents\cs stuff\235\lab10\lab10\source.cpp(41): note: see reference to class template instantiation 'QuickSort<int>' being compiled
+d:\users\yoping\documents\cs stuff\235\lab10\lab10\quicksort.h(97): warning C4018: '>': signed/unsigned mismatch
+  d:\users\yoping\documents\cs stuff\235\lab10\lab10\quicksort.h(96): note: while compiling class template member function 'int QuickSort<int>::medianOfThree(::size_t,::size_t)'
+  d:\users\yoping\documents\cs stuff\235\lab10\lab10\source.cpp(89): note: see reference to function template instantiation 'int QuickSort<int>::medianOfThree(::size_t,::size_t)' being compiled
+d:\users\yoping\documents\cs stuff\235\lab10\lab10\quicksort.h(34): warning C4018: '<': signed/unsigned mismatch
+  d:\users\yoping\documents\cs stuff\235\lab10\lab10\quicksort.h(30): note: while compiling class template member function 'bool QuickSort<int>::addElement(T)'
+          with
+          [
+              T=int
+          ]
+  d:\users\yoping\documents\cs stuff\235\lab10\lab10\source.cpp(70): note: see reference to function template instantiation 'bool QuickSort<int>::addElement(T)' being compiled
+          with
+          [
+              T=int
+          ]
+  Lab10.vcxproj -> D:\Users\Yoping\Documents\CS Stuff\235\Lab10\Debug\Lab10.exe
+  Lab10.vcxproj -> D:\Users\Yoping\Documents\CS Stuff\235\Lab10\Debug\Lab10.pdb (Partial PDB)

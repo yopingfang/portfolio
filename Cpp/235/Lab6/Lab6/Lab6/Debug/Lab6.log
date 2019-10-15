@@ -1,0 +1,32 @@
+﻿  Source.cpp
+d:\users\yoping\documents\cs stuff\235\lab6\lab6\lab6\station.h(114): warning C4018: '<': signed/unsigned mismatch
+  d:\users\yoping\documents\cs stuff\235\lab6\lab6\lab6\station.h(112): note: while compiling class template member function 'std::string Station<unsigned int>::find(T)'
+          with
+          [
+              T=unsigned int
+          ]
+  d:\users\yoping\documents\cs stuff\235\lab6\lab6\lab6\source.cpp(101): note: see reference to function template instantiation 'std::string Station<unsigned int>::find(T)' being compiled
+          with
+          [
+              T=unsigned int
+          ]
+  d:\users\yoping\documents\cs stuff\235\lab6\lab6\lab6\source.cpp(43): note: see reference to class template instantiation 'Station<unsigned int>' being compiled
+d:\users\yoping\documents\cs stuff\235\lab6\lab6\lab6\station.h(120): warning C4018: '<': signed/unsigned mismatch
+d:\users\yoping\documents\cs stuff\235\lab6\lab6\lab6\station.h(126): warning C4018: '<': signed/unsigned mismatch
+d:\users\yoping\documents\cs stuff\235\lab6\lab6\lab6\deque.h(128): warning C4018: '<=': signed/unsigned mismatch
+  d:\users\yoping\documents\cs stuff\235\lab6\lab6\lab6\deque.h(125): note: while compiling class template member function 'std::string Deque<unsigned int>::toString(void) const'
+  d:\users\yoping\documents\cs stuff\235\lab6\lab6\lab6\vector.h(12): note: see reference to class template instantiation 'Deque<unsigned int>' being compiled
+  d:\users\yoping\documents\cs stuff\235\lab6\lab6\lab6\vector.h(40): note: see reference to class template instantiation 'Vector<T>' being compiled
+d:\users\yoping\documents\cs stuff\235\lab6\lab6\lab6\deque.h(78): warning C4018: '<=': signed/unsigned mismatch
+  d:\users\yoping\documents\cs stuff\235\lab6\lab6\lab6\deque.h(71): note: while compiling class template member function 'void Deque<unsigned int>::pop_front(void)'
+d:\users\yoping\documents\cs stuff\235\lab6\lab6\lab6\deque.h(45): warning C4018: '<=': signed/unsigned mismatch
+  d:\users\yoping\documents\cs stuff\235\lab6\lab6\lab6\deque.h(37): note: while compiling class template member function 'void Deque<unsigned int>::push_front(const T &)'
+          with
+          [
+              T=unsigned int
+          ]
+d:\users\yoping\documents\cs stuff\235\lab6\lab6\lab6\deque.h(20): warning C4018: '<': signed/unsigned mismatch
+  d:\users\yoping\documents\cs stuff\235\lab6\lab6\lab6\deque.h(17): note: while compiling class template member function 'void Deque<unsigned int>::reallocate(void)'
+  d:\users\yoping\documents\cs stuff\235\lab6\lab6\lab6\deque.h(59): note: see reference to function template instantiation 'void Deque<unsigned int>::reallocate(void)' being compiled
+  Lab6.vcxproj -> D:\Users\Yoping\Documents\CS Stuff\235\Lab6\Lab6\Debug\Lab6.exe
+  Lab6.vcxproj -> D:\Users\Yoping\Documents\CS Stuff\235\Lab6\Lab6\Debug\Lab6.pdb (Partial PDB)

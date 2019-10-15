@@ -1,0 +1,52 @@
+﻿@model IEnumerable<BlowOut.Models.Instruments>
+
+@{
+    ViewBag.Title = "Summary";
+    ViewBag.Header = "Thank You, " + ViewBag.ClientName + "!";
+}
+
+<div class="jumbotron">
+    <h1>You Rented:</h1>
+    <div class="row">
+        <div class="col-4">
+            @if (ViewBag.Name == "Trumpet")
+            {<img src="~/Content/images/trumpet_sq.jpg" class="full-img" />}
+            @if (ViewBag.Name == "Trombone")
+            {<img src="~/Content/images/trombone_sq.jpg" class="full-img" />}
+            @if (ViewBag.Name == "Tuba")
+            {<img src="~/Content/images/tuba_sq.jpg" class="full-img" />}
+            @if (ViewBag.Name == "Flute")
+            {<img src="~/Content/images/flute_sq.jpg" class="full-img" />}
+            @if (ViewBag.Name == "Clarinet")
+            {<img src="~/Content/images/clarinet_sq.jpg" class="full-img" />}
+            @if (ViewBag.Name == "Saxophone")
+            {<img src="~/Content/images/sax_sq.jpg" class="full-img" />}
+
+        </div>
+        <div class="col-8">
+            <table>
+                <tr>
+                    <th style="padding-right: 5em">ID</th>
+                    <th style="padding-right: 5em">Instrument</th>
+                    <th style="padding-right: 5em">Type</th>
+                    <th style="padding-right: 5em">Monthly Price</th>
+                    <th style="padding-right: 5em">18 Month Total</th>
+                </tr>
+                <tr>
+                    @foreach (var item in Model)
+                    {
+                        if (item.clientID == ViewBag.Client)
+                        {
+                            <td>@Html.DisplayFor(modelItem => item.clientID)</td>
+                            <td>@Html.DisplayFor(modelItem => item.instName)</td>
+                            <td>@Html.DisplayFor(modelItem => item.instType)</td>
+                            <td>$@Html.DisplayFor(modelItem => item.price).00</td>
+                            <td>@ViewBag.Total</td>
+                        }
+                    }
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,8753 @@
+[{
+    "model": "homepage.currencyprice",
+    "pk": 1,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-01",
+        "price": "6844.23"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 2,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-02",
+        "price": "7083.80"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 3,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-03",
+        "price": "7456.11"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 4,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-04",
+        "price": "6853.84"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 5,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-05",
+        "price": "6811.47"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 6,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-06",
+        "price": "6636.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 7,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-07",
+        "price": "6911.09"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 8,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-08",
+        "price": "7023.52"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 9,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-09",
+        "price": "6770.73"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 10,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-10",
+        "price": "6834.76"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 11,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-11",
+        "price": "6968.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 12,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-12",
+        "price": "7889.25"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 13,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-13",
+        "price": "7895.96"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 14,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-14",
+        "price": "7986.24"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 15,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-15",
+        "price": "8329.11"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 16,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-16",
+        "price": "8058.67"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 17,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-17",
+        "price": "7902.09"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 18,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-18",
+        "price": "8163.42"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 19,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-19",
+        "price": "8294.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 20,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-20",
+        "price": "8845.83"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 21,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-21",
+        "price": "8895.58"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 22,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-22",
+        "price": "8802.46"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 23,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-23",
+        "price": "8930.88"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 24,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-24",
+        "price": "9697.50"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 25,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-25",
+        "price": "8845.74"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 26,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-26",
+        "price": "9281.51"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 27,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-27",
+        "price": "8987.05"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 28,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-28",
+        "price": "9348.48"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 29,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-29",
+        "price": "9419.08"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 30,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-04-30",
+        "price": "9240.55"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 31,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-01",
+        "price": "9119.01"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 32,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-02",
+        "price": "9235.92"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 33,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-03",
+        "price": "9743.86"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 34,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-04",
+        "price": "9700.76"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 35,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-05",
+        "price": "9858.15"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 36,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-06",
+        "price": "9654.80"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 37,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-07",
+        "price": "9373.01"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 38,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-08",
+        "price": "9234.82"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 39,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-09",
+        "price": "9325.18"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 40,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-10",
+        "price": "9043.94"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 41,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-11",
+        "price": "8441.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 42,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-12",
+        "price": "8504.89"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 43,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-13",
+        "price": "8723.94"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 44,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-14",
+        "price": "8716.79"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 45,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-15",
+        "price": "8510.38"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 46,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-16",
+        "price": "8368.83"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 47,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-17",
+        "price": "8094.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 48,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-18",
+        "price": "8250.97"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 49,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-19",
+        "price": "8247.18"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 50,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-20",
+        "price": "8513.25"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 51,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-21",
+        "price": "8418.99"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 52,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-22",
+        "price": "8041.78"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 53,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-23",
+        "price": "7557.82"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 54,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-24",
+        "price": "7587.34"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 55,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-25",
+        "price": "7480.14"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 56,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-26",
+        "price": "7355.88"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 57,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-27",
+        "price": "7368.22"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 58,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-28",
+        "price": "7135.99"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 59,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-29",
+        "price": "7472.59"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 60,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-30",
+        "price": "7406.52"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 61,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-05-31",
+        "price": "7494.17"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 62,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-01",
+        "price": "7541.45"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 63,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-02",
+        "price": "7643.45"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 64,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-03",
+        "price": "7720.25"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 65,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-04",
+        "price": "7514.47"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 66,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-05",
+        "price": "7633.76"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 67,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-06",
+        "price": "7653.98"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 68,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-07",
+        "price": "7678.24"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 69,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-08",
+        "price": "7624.92"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 70,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-09",
+        "price": "7531.98"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 71,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-10",
+        "price": "6786.02"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 72,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-11",
+        "price": "6906.92"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 73,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-12",
+        "price": "6582.36"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 74,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-13",
+        "price": "6349.90"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 75,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-14",
+        "price": "6675.35"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 76,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-15",
+        "price": "6456.58"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 77,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-16",
+        "price": "6550.16"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 78,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-17",
+        "price": "6499.27"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 79,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-18",
+        "price": "6734.82"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 80,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-19",
+        "price": "6769.94"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 81,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-20",
+        "price": "6776.55"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 82,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-21",
+        "price": "6729.74"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 83,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-22",
+        "price": "6083.69"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 84,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-23",
+        "price": "6162.48"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 85,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-24",
+        "price": "6173.23"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 86,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-25",
+        "price": "6249.18"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 87,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-26",
+        "price": "6093.67"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 88,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-27",
+        "price": "6157.13"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 89,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-28",
+        "price": "5903.44"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 90,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-29",
+        "price": "6218.30"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 91,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-06-30",
+        "price": "6404.00"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 92,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-01",
+        "price": "6385.82"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 93,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-02",
+        "price": "6614.18"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 94,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-03",
+        "price": "6529.59"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 95,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-04",
+        "price": "6597.55"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 96,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-05",
+        "price": "6639.14"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 97,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-06",
+        "price": "6673.50"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 98,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-07",
+        "price": "6856.93"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 99,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-08",
+        "price": "6773.88"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 100,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-09",
+        "price": "6741.75"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 101,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-10",
+        "price": "6329.95"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 102,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-11",
+        "price": "6394.71"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 103,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-12",
+        "price": "6228.81"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 104,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-13",
+        "price": "6238.05"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 105,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-14",
+        "price": "6276.12"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 106,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-15",
+        "price": "6359.64"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 107,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-16",
+        "price": "6741.75"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 108,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-17",
+        "price": "7321.04"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 109,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-18",
+        "price": "7370.78"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 110,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-19",
+        "price": "7466.86"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 111,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-20",
+        "price": "7354.13"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 112,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-21",
+        "price": "7419.29"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 113,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-22",
+        "price": "7418.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 114,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-23",
+        "price": "7711.11"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 115,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-24",
+        "price": "8424.27"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 116,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-25",
+        "price": "8181.39"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 117,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-26",
+        "price": "7951.58"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 118,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-27",
+        "price": "8165.01"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 119,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-28",
+        "price": "8192.15"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 120,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-29",
+        "price": "8218.46"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 121,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-30",
+        "price": "8180.48"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 122,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-07-31",
+        "price": "7780.44"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 123,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-01",
+        "price": "7624.91"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 124,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-02",
+        "price": "7567.15"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 125,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-03",
+        "price": "7434.39"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 126,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-04",
+        "price": "7032.85"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 127,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-05",
+        "price": "7068.48"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 128,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-06",
+        "price": "6951.80"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 129,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-07",
+        "price": "6753.12"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 130,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-08",
+        "price": "6305.80"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 131,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-09",
+        "price": "6568.23"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 132,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-10",
+        "price": "6184.71"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 133,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-11",
+        "price": "6295.73"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 134,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-12",
+        "price": "6322.69"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 135,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-13",
+        "price": "6297.57"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 136,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-14",
+        "price": "6199.71"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 137,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-15",
+        "price": "6308.52"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 138,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-16",
+        "price": "6334.73"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 139,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-17",
+        "price": "6580.63"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 140,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-18",
+        "price": "6423.76"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 141,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-19",
+        "price": "6506.07"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 142,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-20",
+        "price": "6308.53"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 143,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-21",
+        "price": "6488.76"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 144,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-22",
+        "price": "6376.71"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 145,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-23",
+        "price": "6534.88"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 146,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-24",
+        "price": "6719.96"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 147,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-25",
+        "price": "6763.19"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 148,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-26",
+        "price": "6707.26"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 149,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-27",
+        "price": "6884.64"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 150,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-28",
+        "price": "7096.28"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 151,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-29",
+        "price": "7047.16"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 152,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-30",
+        "price": "6978.23"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 153,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-08-31",
+        "price": "7037.58"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 154,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-01",
+        "price": "7193.25"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 155,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-02",
+        "price": "7272.72"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 156,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-03",
+        "price": "7260.06"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 157,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-04",
+        "price": "7361.66"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 158,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-05",
+        "price": "6792.83"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 159,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-06",
+        "price": "6529.17"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 160,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-07",
+        "price": "6467.07"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 161,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-08",
+        "price": "6225.98"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 162,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-09",
+        "price": "6300.86"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 163,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-10",
+        "price": "6329.70"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 164,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-11",
+        "price": "6321.20"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 165,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-12",
+        "price": "6351.80"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 166,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-13",
+        "price": "6517.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 167,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-14",
+        "price": "6512.71"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 168,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-15",
+        "price": "6543.20"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 169,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-16",
+        "price": "6517.18"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 170,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-17",
+        "price": "6281.20"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 171,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-18",
+        "price": "6371.30"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 172,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-19",
+        "price": "6398.54"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 173,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-20",
+        "price": "6519.67"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 174,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-21",
+        "price": "6734.95"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 175,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-22",
+        "price": "6721.98"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 176,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-23",
+        "price": "6710.63"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 177,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-24",
+        "price": "6595.41"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 178,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-25",
+        "price": "6446.47"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 179,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-26",
+        "price": "6495.00"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 180,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-27",
+        "price": "6676.75"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 181,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-28",
+        "price": "6644.13"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 182,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-29",
+        "price": "6601.96"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 183,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-09-30",
+        "price": "6625.56"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 184,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-01",
+        "price": "6589.62"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 185,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-02",
+        "price": "6556.10"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 186,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-03",
+        "price": "6502.59"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 187,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-04",
+        "price": "6576.69"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 188,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-05",
+        "price": "6622.48"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 189,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-06",
+        "price": "6588.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 190,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-07",
+        "price": "6602.95"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 191,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-08",
+        "price": "6652.23"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 192,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-09",
+        "price": "6642.64"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 193,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-10",
+        "price": "6585.53"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 194,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-11",
+        "price": "6256.24"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 195,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-12",
+        "price": "6274.58"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 196,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-13",
+        "price": "6285.99"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 197,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-14",
+        "price": "6290.93"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 198,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-15",
+        "price": "6596.54"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 199,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-16",
+        "price": "6596.11"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 200,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-17",
+        "price": "6544.43"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 201,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-18",
+        "price": "6476.71"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 202,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-19",
+        "price": "6465.41"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 203,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-20",
+        "price": "6489.19"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 204,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-21",
+        "price": "6482.35"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 205,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-22",
+        "price": "6487.16"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 206,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-23",
+        "price": "6475.74"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 207,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-24",
+        "price": "6495.84"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 208,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-25",
+        "price": "6476.29"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 209,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-26",
+        "price": "6474.75"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 210,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-27",
+        "price": "6480.38"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 211,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-28",
+        "price": "6486.39"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 212,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-29",
+        "price": "6332.63"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 213,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-30",
+        "price": "6334.27"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 214,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-10-31",
+        "price": "6317.61"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 215,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-01",
+        "price": "6377.78"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 216,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-02",
+        "price": "6388.44"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 217,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-03",
+        "price": "6361.26"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 218,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-04",
+        "price": "6376.13"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 219,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-05",
+        "price": "6419.66"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 220,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-06",
+        "price": "6461.01"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 221,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-07",
+        "price": "6530.14"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 222,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-08",
+        "price": "6453.72"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 223,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-09",
+        "price": "6385.62"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 224,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-10",
+        "price": "6409.22"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 225,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-11",
+        "price": "6411.27"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 226,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-12",
+        "price": "6371.27"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 227,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-13",
+        "price": "6359.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 228,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-14",
+        "price": "5738.35"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 229,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-15",
+        "price": "5648.03"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 230,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-16",
+        "price": "5575.55"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 231,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-17",
+        "price": "5554.33"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 232,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-18",
+        "price": "5623.54"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 233,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-19",
+        "price": "4871.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 234,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-20",
+        "price": "4451.87"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 235,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-21",
+        "price": "4602.17"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 236,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-22",
+        "price": "4365.94"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 237,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-23",
+        "price": "4347.11"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 238,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-24",
+        "price": "3880.76"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 239,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-25",
+        "price": "4009.97"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 240,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-26",
+        "price": "3779.13"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 241,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-27",
+        "price": "3820.72"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 242,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-28",
+        "price": "4257.42"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 243,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-29",
+        "price": "4278.85"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 244,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-11-30",
+        "price": "4017.27"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 245,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-01",
+        "price": "4214.67"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 246,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-02",
+        "price": "4139.88"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 247,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-03",
+        "price": "3894.13"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 248,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-04",
+        "price": "3956.89"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 249,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-05",
+        "price": "3753.99"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 250,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-06",
+        "price": "3521.10"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 251,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-07",
+        "price": "3419.94"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 252,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-08",
+        "price": "3476.11"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 253,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-09",
+        "price": "3614.23"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 254,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-10",
+        "price": "3502.66"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 255,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-11",
+        "price": "3424.59"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 256,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-12",
+        "price": "3486.95"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 257,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-13",
+        "price": "3313.68"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 258,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-14",
+        "price": "3242.48"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 259,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-15",
+        "price": "3236.76"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 260,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-16",
+        "price": "3252.84"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 261,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-17",
+        "price": "3545.86"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 262,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-18",
+        "price": "3696.06"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 263,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-19",
+        "price": "3745.95"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 264,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-20",
+        "price": "4134.44"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 265,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-21",
+        "price": "3896.54"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 266,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-22",
+        "price": "4014.18"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 267,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-23",
+        "price": "3998.98"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 268,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-24",
+        "price": "4078.60"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 269,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-25",
+        "price": "3815.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 270,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-26",
+        "price": "3857.30"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 271,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-27",
+        "price": "3654.83"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 272,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-28",
+        "price": "3923.92"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 273,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-29",
+        "price": "3820.41"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 274,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-30",
+        "price": "3865.95"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 275,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2018-12-31",
+        "price": "3742.70"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 276,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-01",
+        "price": "3843.52"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 277,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-02",
+        "price": "3943.41"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 278,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-03",
+        "price": "3836.74"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 279,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-04",
+        "price": "3857.72"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 280,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-05",
+        "price": "3845.19"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 281,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-06",
+        "price": "4076.63"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 282,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-07",
+        "price": "4025.25"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 283,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-08",
+        "price": "4030.85"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 284,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-09",
+        "price": "4035.30"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 285,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-10",
+        "price": "3678.92"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 286,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-11",
+        "price": "3687.37"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 287,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-12",
+        "price": "3661.30"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 288,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-13",
+        "price": "3552.95"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 289,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-14",
+        "price": "3706.05"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 290,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-15",
+        "price": "3630.68"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 291,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-16",
+        "price": "3655.01"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 292,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-17",
+        "price": "3678.56"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 293,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-18",
+        "price": "3657.84"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 294,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-19",
+        "price": "3728.57"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 295,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-20",
+        "price": "3601.01"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 296,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-21",
+        "price": "3576.03"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 297,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-22",
+        "price": "3604.58"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 298,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-23",
+        "price": "3585.12"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 299,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-24",
+        "price": "3600.87"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 300,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-25",
+        "price": "3599.77"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 301,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-26",
+        "price": "3602.46"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 302,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-27",
+        "price": "3583.97"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 303,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-28",
+        "price": "3470.45"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 304,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-29",
+        "price": "3448.12"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 305,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-30",
+        "price": "3486.18"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 306,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-01-31",
+        "price": "3457.79"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 307,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-02-01",
+        "price": "3487.95"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 308,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-02-02",
+        "price": "3521.06"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 309,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-02-03",
+        "price": "3464.01"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 310,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-02-04",
+        "price": "3459.15"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 311,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-02-05",
+        "price": "3466.36"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 312,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-02-06",
+        "price": "3413.77"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 313,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-02-07",
+        "price": "3399.47"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 314,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-02-08",
+        "price": "3666.78"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 315,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-02-09",
+        "price": "3671.20"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 316,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-02-10",
+        "price": "3690.19"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 317,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-02-11",
+        "price": "3648.43"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 318,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-02-12",
+        "price": "3653.53"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 319,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-02-13",
+        "price": "3632.07"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 320,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-02-14",
+        "price": "3616.88"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 321,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-02-15",
+        "price": "3620.81"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 322,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-02-16",
+        "price": "3629.79"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 323,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-02-17",
+        "price": "3673.84"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 324,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-02-18",
+        "price": "3915.71"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 325,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-02-19",
+        "price": "3947.09"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 326,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-02-20",
+        "price": "3999.82"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 327,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-02-21",
+        "price": "3954.12"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 328,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-02-22",
+        "price": "4005.53"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 329,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-02-23",
+        "price": "4142.53"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 330,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-02-24",
+        "price": "3810.43"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 331,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-02-25",
+        "price": "3882.70"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 332,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-02-26",
+        "price": "3854.36"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 333,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-02-27",
+        "price": "3851.05"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 334,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-02-28",
+        "price": "3854.79"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 335,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-01",
+        "price": "3859.58"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 336,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-02",
+        "price": "3864.42"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 337,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-03",
+        "price": "3847.18"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 338,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-04",
+        "price": "3761.56"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 339,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-05",
+        "price": "3896.38"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 340,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-06",
+        "price": "3903.94"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 341,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-07",
+        "price": "3911.48"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 342,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-08",
+        "price": "3901.13"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 343,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-09",
+        "price": "3963.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 344,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-10",
+        "price": "3951.60"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 345,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-11",
+        "price": "3905.23"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 346,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-12",
+        "price": "3909.16"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 347,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-13",
+        "price": "3906.72"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 348,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-14",
+        "price": "3924.37"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 349,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-15",
+        "price": "3960.91"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 350,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-16",
+        "price": "4048.73"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 351,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-17",
+        "price": "4025.23"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 352,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-18",
+        "price": "4032.51"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 353,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-19",
+        "price": "4071.19"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 354,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-20",
+        "price": "4087.48"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 355,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-21",
+        "price": "4029.33"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 356,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-22",
+        "price": "4023.97"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 357,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-23",
+        "price": "4035.83"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 358,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-24",
+        "price": "4022.17"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 359,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-25",
+        "price": "3963.07"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 360,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-26",
+        "price": "3985.08"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 361,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-27",
+        "price": "4087.07"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 362,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-28",
+        "price": "4069.11"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 363,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-29",
+        "price": "4098.37"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 364,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-30",
+        "price": "4106.66"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 365,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-03-31",
+        "price": "4105.40"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 366,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-04-01",
+        "price": "4158.18"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 367,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-04-02",
+        "price": "4879.88"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 368,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-04-03",
+        "price": "4973.02"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 369,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-04-04",
+        "price": "4922.80"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 370,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-04-05",
+        "price": "5036.68"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 371,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-04-06",
+        "price": "5059.82"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 372,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-04-07",
+        "price": "5198.90"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 373,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-04-08",
+        "price": "5289.77"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 374,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-04-09",
+        "price": "5204.96"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 375,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-04-10",
+        "price": "5324.55"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 376,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-04-11",
+        "price": "5064.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 377,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-04-12",
+        "price": "5089.54"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 378,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-04-13",
+        "price": "5096.59"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 379,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-04-14",
+        "price": "5167.72"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 380,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-04-15",
+        "price": "5067.11"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 381,
+    "fields": {
+        "symbol": "BTC",
+        "date": "2019-04-16",
+        "price": "5235.56"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 382,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-05-04",
+        "price": "785.62"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 383,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-05-05",
+        "price": "816.12"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 384,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-05-06",
+        "price": "792.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 385,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-05-07",
+        "price": "753.72"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 386,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-05-08",
+        "price": "752.86"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 387,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-05-09",
+        "price": "752.28"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 388,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-05-10",
+        "price": "727.28"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 389,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-05-11",
+        "price": "679.59"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 390,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-05-12",
+        "price": "686.05"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 391,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-05-13",
+        "price": "733.50"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 392,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-05-14",
+        "price": "730.55"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 393,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-05-15",
+        "price": "708.87"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 394,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-05-16",
+        "price": "707.05"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 395,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-05-17",
+        "price": "672.66"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 396,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-05-18",
+        "price": "694.37"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 397,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-05-19",
+        "price": "696.53"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 398,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-05-20",
+        "price": "715.37"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 399,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-05-21",
+        "price": "699.22"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 400,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-05-22",
+        "price": "647.74"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 401,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-05-23",
+        "price": "583.59"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 402,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-05-24",
+        "price": "601.76"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 403,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-05-25",
+        "price": "586.73"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 404,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-05-26",
+        "price": "587.28"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 405,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-05-27",
+        "price": "572.67"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 406,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-05-28",
+        "price": "516.04"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 407,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-05-29",
+        "price": "565.39"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 408,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-05-30",
+        "price": "559.59"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 409,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-05-31",
+        "price": "577.65"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 410,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-01",
+        "price": "580.04"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 411,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-02",
+        "price": "591.81"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 412,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-03",
+        "price": "618.33"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 413,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-04",
+        "price": "592.98"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 414,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-05",
+        "price": "609.30"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 415,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-06",
+        "price": "607.12"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 416,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-07",
+        "price": "605.19"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 417,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-08",
+        "price": "601.08"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 418,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-09",
+        "price": "597.56"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 419,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-10",
+        "price": "526.48"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 420,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-11",
+        "price": "533.28"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 421,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-12",
+        "price": "496.84"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 422,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-13",
+        "price": "477.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 423,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-14",
+        "price": "519.74"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 424,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-15",
+        "price": "491.00"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 425,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-16",
+        "price": "499.64"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 426,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-17",
+        "price": "500.45"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 427,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-18",
+        "price": "518.89"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 428,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-19",
+        "price": "537.96"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 429,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-20",
+        "price": "536.27"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 430,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-21",
+        "price": "527.37"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 431,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-22",
+        "price": "465.82"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 432,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-23",
+        "price": "474.52"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 433,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-24",
+        "price": "457.67"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 434,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-25",
+        "price": "460.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 435,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-26",
+        "price": "432.77"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 436,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-27",
+        "price": "442.36"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 437,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-28",
+        "price": "422.36"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 438,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-29",
+        "price": "436.01"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 439,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-06-30",
+        "price": "455.18"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 440,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-01",
+        "price": "453.92"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 441,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-02",
+        "price": "475.35"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 442,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-03",
+        "price": "464.20"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 443,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-04",
+        "price": "467.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 444,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-05",
+        "price": "474.41"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 445,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-06",
+        "price": "474.01"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 446,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-07",
+        "price": "491.66"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 447,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-08",
+        "price": "489.12"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 448,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-09",
+        "price": "476.68"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 449,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-10",
+        "price": "434.42"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 450,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-11",
+        "price": "446.52"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 451,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-12",
+        "price": "430.07"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 452,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-13",
+        "price": "434.03"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 453,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-14",
+        "price": "436.09"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 454,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-15",
+        "price": "449.85"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 455,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-16",
+        "price": "480.66"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 456,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-17",
+        "price": "501.00"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 457,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-18",
+        "price": "480.51"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 458,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-19",
+        "price": "469.62"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 459,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-20",
+        "price": "450.70"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 460,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-21",
+        "price": "462.44"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 461,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-22",
+        "price": "459.66"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 462,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-23",
+        "price": "450.85"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 463,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-24",
+        "price": "479.37"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 464,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-25",
+        "price": "472.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 465,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-26",
+        "price": "464.04"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 466,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-27",
+        "price": "469.67"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 467,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-28",
+        "price": "466.90"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 468,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-29",
+        "price": "466.67"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 469,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-30",
+        "price": "457.08"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 470,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-07-31",
+        "price": "433.87"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 471,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-01",
+        "price": "420.75"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 472,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-02",
+        "price": "412.62"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 473,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-03",
+        "price": "418.26"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 474,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-04",
+        "price": "407.25"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 475,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-05",
+        "price": "410.52"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 476,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-06",
+        "price": "406.66"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 477,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-07",
+        "price": "380.22"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 478,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-08",
+        "price": "356.61"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 479,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-09",
+        "price": "365.59"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 480,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-10",
+        "price": "334.18"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 481,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-11",
+        "price": "322.11"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 482,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-12",
+        "price": "319.57"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 483,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-13",
+        "price": "286.50"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 484,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-14",
+        "price": "278.93"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 485,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-15",
+        "price": "282.36"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 486,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-16",
+        "price": "288.05"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 487,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-17",
+        "price": "315.73"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 488,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-18",
+        "price": "295.81"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 489,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-19",
+        "price": "300.83"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 490,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-20",
+        "price": "274.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 491,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-21",
+        "price": "281.94"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 492,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-22",
+        "price": "271.34"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 493,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-23",
+        "price": "277.10"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 494,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-24",
+        "price": "282.97"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 495,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-25",
+        "price": "279.65"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 496,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-26",
+        "price": "275.20"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 497,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-27",
+        "price": "285.60"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 498,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-28",
+        "price": "296.50"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 499,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-29",
+        "price": "289.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 500,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-30",
+        "price": "284.11"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 501,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-08-31",
+        "price": "283.00"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 502,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-01",
+        "price": "295.34"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 503,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-02",
+        "price": "294.37"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 504,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-03",
+        "price": "289.26"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 505,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-04",
+        "price": "285.72"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 506,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-05",
+        "price": "232.33"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 507,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-06",
+        "price": "230.22"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 508,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-07",
+        "price": "217.20"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 509,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-08",
+        "price": "197.95"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 510,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-09",
+        "price": "196.92"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 511,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-10",
+        "price": "197.08"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 512,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-11",
+        "price": "185.07"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 513,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-12",
+        "price": "183.33"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 514,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-13",
+        "price": "211.35"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 515,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-14",
+        "price": "211.75"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 516,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-15",
+        "price": "223.07"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 517,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-16",
+        "price": "220.59"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 518,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-17",
+        "price": "197.88"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 519,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-18",
+        "price": "209.98"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 520,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-19",
+        "price": "209.97"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 521,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-20",
+        "price": "224.59"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 522,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-21",
+        "price": "246.58"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 523,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-22",
+        "price": "240.48"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 524,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-23",
+        "price": "244.33"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 525,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-24",
+        "price": "228.73"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 526,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-25",
+        "price": "218.51"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 527,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-26",
+        "price": "215.85"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 528,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-27",
+        "price": "228.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 529,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-28",
+        "price": "222.40"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 530,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-29",
+        "price": "231.64"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 531,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-09-30",
+        "price": "232.85"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 532,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-01",
+        "price": "230.77"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 533,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-02",
+        "price": "227.18"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 534,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-03",
+        "price": "220.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 535,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-04",
+        "price": "222.22"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 536,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-05",
+        "price": "227.60"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 537,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-06",
+        "price": "225.12"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 538,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-07",
+        "price": "226.12"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 539,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-08",
+        "price": "229.26"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 540,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-09",
+        "price": "227.98"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 541,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-10",
+        "price": "225.77"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 542,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-11",
+        "price": "189.50"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 543,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-12",
+        "price": "196.73"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 544,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-13",
+        "price": "199.84"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 545,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-14",
+        "price": "195.72"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 546,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-15",
+        "price": "209.70"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 547,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-16",
+        "price": "210.12"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 548,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-17",
+        "price": "207.08"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 549,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-18",
+        "price": "203.35"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 550,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-19",
+        "price": "203.73"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 551,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-20",
+        "price": "205.43"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 552,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-21",
+        "price": "205.14"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 553,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-22",
+        "price": "204.04"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 554,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-23",
+        "price": "204.34"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 555,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-24",
+        "price": "203.85"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 556,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-25",
+        "price": "202.72"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 557,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-26",
+        "price": "203.33"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 558,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-27",
+        "price": "204.21"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 559,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-28",
+        "price": "205.37"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 560,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-29",
+        "price": "197.25"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 561,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-30",
+        "price": "197.56"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 562,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-10-31",
+        "price": "197.38"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 563,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-01",
+        "price": "198.87"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 564,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-02",
+        "price": "200.64"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 565,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-03",
+        "price": "200.19"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 566,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-04",
+        "price": "207.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 567,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-05",
+        "price": "209.09"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 568,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-06",
+        "price": "218.45"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 569,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-07",
+        "price": "217.18"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 570,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-08",
+        "price": "212.23"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 571,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-09",
+        "price": "210.07"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 572,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-10",
+        "price": "212.53"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 573,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-11",
+        "price": "211.34"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 574,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-12",
+        "price": "210.42"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 575,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-13",
+        "price": "206.83"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 576,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-14",
+        "price": "181.40"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 577,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-15",
+        "price": "180.81"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 578,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-16",
+        "price": "175.18"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 579,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-17",
+        "price": "174.00"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 580,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-18",
+        "price": "177.07"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 581,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-19",
+        "price": "149.18"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 582,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-20",
+        "price": "130.34"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 583,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-21",
+        "price": "136.70"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 584,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-22",
+        "price": "126.71"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 585,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-23",
+        "price": "123.30"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 586,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-24",
+        "price": "113.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 587,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-25",
+        "price": "116.45"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 588,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-26",
+        "price": "108.34"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 589,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-27",
+        "price": "110.01"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 590,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-28",
+        "price": "122.44"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 591,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-29",
+        "price": "117.54"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 592,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-11-30",
+        "price": "113.17"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 593,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-01",
+        "price": "118.64"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 594,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-02",
+        "price": "116.39"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 595,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-03",
+        "price": "108.93"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 596,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-04",
+        "price": "110.21"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 597,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-05",
+        "price": "102.48"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 598,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-06",
+        "price": "91.76"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 599,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-07",
+        "price": "93.29"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 600,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-08",
+        "price": "92.16"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 601,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-09",
+        "price": "95.14"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 602,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-10",
+        "price": "91.69"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 603,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-11",
+        "price": "88.95"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 604,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-12",
+        "price": "90.59"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 605,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-13",
+        "price": "86.54"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 606,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-14",
+        "price": "84.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 607,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-15",
+        "price": "84.44"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 608,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-16",
+        "price": "85.26"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 609,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-17",
+        "price": "95.13"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 610,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-18",
+        "price": "101.11"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 611,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-19",
+        "price": "101.27"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 612,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-20",
+        "price": "116.22"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 613,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-21",
+        "price": "109.50"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 614,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-22",
+        "price": "116.76"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 615,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-23",
+        "price": "130.77"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 616,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-24",
+        "price": "140.24"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 617,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-25",
+        "price": "129.84"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 618,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-26",
+        "price": "131.87"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 619,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-27",
+        "price": "116.58"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 620,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-28",
+        "price": "137.65"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 621,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-29",
+        "price": "138.02"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 622,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-30",
+        "price": "139.86"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 623,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2018-12-31",
+        "price": "133.37"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 624,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-01",
+        "price": "140.82"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 625,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-02",
+        "price": "155.05"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 626,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-03",
+        "price": "149.14"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 627,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-04",
+        "price": "154.58"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 628,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-05",
+        "price": "155.64"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 629,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-06",
+        "price": "157.75"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 630,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-07",
+        "price": "151.70"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 631,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-08",
+        "price": "150.36"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 632,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-09",
+        "price": "150.80"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 633,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-10",
+        "price": "128.63"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 634,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-11",
+        "price": "127.55"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 635,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-12",
+        "price": "125.97"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 636,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-13",
+        "price": "116.90"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 637,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-14",
+        "price": "129.07"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 638,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-15",
+        "price": "122.03"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 639,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-16",
+        "price": "123.55"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 640,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-17",
+        "price": "123.74"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 641,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-18",
+        "price": "121.01"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 642,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-19",
+        "price": "124.52"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 643,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-20",
+        "price": "119.47"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 644,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-21",
+        "price": "117.16"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 645,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-22",
+        "price": "118.75"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 646,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-23",
+        "price": "117.45"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 647,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-24",
+        "price": "117.36"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 648,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-25",
+        "price": "116.38"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 649,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-26",
+        "price": "116.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 650,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-27",
+        "price": "113.41"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 651,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-28",
+        "price": "106.59"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 652,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-29",
+        "price": "105.60"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 653,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-30",
+        "price": "108.91"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 654,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-01-31",
+        "price": "107.06"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 655,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-02-01",
+        "price": "107.61"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 656,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-02-02",
+        "price": "110.43"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 657,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-02-03",
+        "price": "107.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 658,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-02-04",
+        "price": "107.82"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 659,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-02-05",
+        "price": "107.44"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 660,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-02-06",
+        "price": "104.92"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 661,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-02-07",
+        "price": "104.54"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 662,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-02-08",
+        "price": "119.27"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 663,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-02-09",
+        "price": "119.43"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 664,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-02-10",
+        "price": "124.81"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 665,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-02-11",
+        "price": "121.30"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 666,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-02-12",
+        "price": "122.57"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 667,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-02-13",
+        "price": "122.55"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 668,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-02-14",
+        "price": "121.39"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 669,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-02-15",
+        "price": "122.10"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 670,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-02-16",
+        "price": "123.26"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 671,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-02-17",
+        "price": "133.60"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 672,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-02-18",
+        "price": "146.10"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 673,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-02-19",
+        "price": "145.35"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 674,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-02-20",
+        "price": "149.55"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 675,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-02-21",
+        "price": "146.13"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 676,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-02-22",
+        "price": "149.09"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 677,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-02-23",
+        "price": "158.80"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 678,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-02-24",
+        "price": "135.85"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 679,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-02-25",
+        "price": "139.82"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 680,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-02-26",
+        "price": "138.09"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 681,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-02-27",
+        "price": "136.13"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 682,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-02-28",
+        "price": "136.75"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 683,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-01",
+        "price": "136.44"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 684,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-02",
+        "price": "134.21"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 685,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-03",
+        "price": "132.25"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 686,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-04",
+        "price": "127.77"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 687,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-05",
+        "price": "137.82"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 688,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-06",
+        "price": "138.79"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 689,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-07",
+        "price": "138.03"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 690,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-08",
+        "price": "135.13"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 691,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-09",
+        "price": "137.97"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 692,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-10",
+        "price": "136.76"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 693,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-11",
+        "price": "133.83"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 694,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-12",
+        "price": "134.44"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 695,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-13",
+        "price": "133.26"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 696,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-14",
+        "price": "133.71"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 697,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-15",
+        "price": "137.69"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 698,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-16",
+        "price": "142.40"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 699,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-17",
+        "price": "140.00"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 700,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-18",
+        "price": "139.37"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 701,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-19",
+        "price": "140.52"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 702,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-20",
+        "price": "140.69"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 703,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-21",
+        "price": "136.64"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 704,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-22",
+        "price": "137.18"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 705,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-23",
+        "price": "138.24"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 706,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-24",
+        "price": "136.99"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 707,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-25",
+        "price": "135.03"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 708,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-26",
+        "price": "135.46"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 709,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-27",
+        "price": "140.99"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 710,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-28",
+        "price": "139.42"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 711,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-29",
+        "price": "142.50"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 712,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-30",
+        "price": "142.09"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 713,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-03-31",
+        "price": "141.51"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 714,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-04-01",
+        "price": "141.83"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 715,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-04-02",
+        "price": "163.96"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 716,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-04-03",
+        "price": "161.46"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 717,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-04-04",
+        "price": "158.05"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 718,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-04-05",
+        "price": "165.51"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 719,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-04-06",
+        "price": "165.95"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 720,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-04-07",
+        "price": "174.53"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 721,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-04-08",
+        "price": "180.26"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 722,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-04-09",
+        "price": "176.11"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 723,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-04-10",
+        "price": "177.34"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 724,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-04-11",
+        "price": "165.50"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 725,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-04-12",
+        "price": "164.74"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 726,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-04-13",
+        "price": "164.51"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 727,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-04-14",
+        "price": "167.84"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 728,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-04-15",
+        "price": "161.57"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 729,
+    "fields": {
+        "symbol": "ETH",
+        "date": "2019-04-16",
+        "price": "167.62"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 730,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-01",
+        "price": "0.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 731,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-02",
+        "price": "0.50"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 732,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-03",
+        "price": "0.56"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 733,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-04",
+        "price": "0.50"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 734,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-05",
+        "price": "0.50"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 735,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-06",
+        "price": "0.48"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 736,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-07",
+        "price": "0.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 737,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-08",
+        "price": "0.50"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 738,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-09",
+        "price": "0.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 739,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-10",
+        "price": "0.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 740,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-11",
+        "price": "0.54"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 741,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-12",
+        "price": "0.63"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 742,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-13",
+        "price": "0.64"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 743,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-14",
+        "price": "0.63"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 744,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-15",
+        "price": "0.68"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 745,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-16",
+        "price": "0.66"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 746,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-17",
+        "price": "0.66"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 747,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-18",
+        "price": "0.71"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 748,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-19",
+        "price": "0.79"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 749,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-20",
+        "price": "0.92"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 750,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-21",
+        "price": "0.87"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 751,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-22",
+        "price": "0.87"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 752,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-23",
+        "price": "0.88"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 753,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-24",
+        "price": "0.93"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 754,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-25",
+        "price": "0.80"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 755,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-26",
+        "price": "0.85"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 756,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-27",
+        "price": "0.81"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 757,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-28",
+        "price": "0.86"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 758,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-29",
+        "price": "0.87"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 759,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-04-30",
+        "price": "0.84"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 760,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-01",
+        "price": "0.84"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 761,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-02",
+        "price": "0.86"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 762,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-03",
+        "price": "0.88"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 763,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-04",
+        "price": "0.90"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 764,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-05",
+        "price": "0.91"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 765,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-06",
+        "price": "0.87"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 766,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-07",
+        "price": "0.83"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 767,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-08",
+        "price": "0.81"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 768,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-09",
+        "price": "0.80"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 769,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-10",
+        "price": "0.76"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 770,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-11",
+        "price": "0.68"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 771,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-12",
+        "price": "0.70"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 772,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-13",
+        "price": "0.75"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 773,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-14",
+        "price": "0.74"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 774,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-15",
+        "price": "0.70"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 775,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-16",
+        "price": "0.71"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 776,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-17",
+        "price": "0.67"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 777,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-18",
+        "price": "0.68"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 778,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-19",
+        "price": "0.68"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 779,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-20",
+        "price": "0.70"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 780,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-21",
+        "price": "0.68"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 781,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-22",
+        "price": "0.65"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 782,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-23",
+        "price": "0.60"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 783,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-24",
+        "price": "0.63"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 784,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-25",
+        "price": "0.61"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 785,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-26",
+        "price": "0.61"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 786,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-27",
+        "price": "0.61"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 787,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-28",
+        "price": "0.55"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 788,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-29",
+        "price": "0.60"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 789,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-30",
+        "price": "0.61"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 790,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-05-31",
+        "price": "0.61"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 791,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-01",
+        "price": "0.62"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 792,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-02",
+        "price": "0.64"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 793,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-03",
+        "price": "0.67"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 794,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-04",
+        "price": "0.66"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 795,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-05",
+        "price": "0.68"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 796,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-06",
+        "price": "0.67"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 797,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-07",
+        "price": "0.68"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 798,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-08",
+        "price": "0.67"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 799,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-09",
+        "price": "0.66"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 800,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-10",
+        "price": "0.59"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 801,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-11",
+        "price": "0.60"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 802,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-12",
+        "price": "0.56"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 803,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-13",
+        "price": "0.53"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 804,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-14",
+        "price": "0.56"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 805,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-15",
+        "price": "0.54"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 806,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-16",
+        "price": "0.53"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 807,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-17",
+        "price": "0.53"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 808,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-18",
+        "price": "0.54"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 809,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-19",
+        "price": "0.55"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 810,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-20",
+        "price": "0.54"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 811,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-21",
+        "price": "0.53"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 812,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-22",
+        "price": "0.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 813,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-23",
+        "price": "0.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 814,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-24",
+        "price": "0.48"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 815,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-25",
+        "price": "0.48"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 816,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-26",
+        "price": "0.46"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 817,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-27",
+        "price": "0.47"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 818,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-28",
+        "price": "0.45"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 819,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-29",
+        "price": "0.45"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 820,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-06-30",
+        "price": "0.47"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 821,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-01",
+        "price": "0.46"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 822,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-02",
+        "price": "0.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 823,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-03",
+        "price": "0.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 824,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-04",
+        "price": "0.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 825,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-05",
+        "price": "0.48"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 826,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-06",
+        "price": "0.48"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 827,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-07",
+        "price": "0.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 828,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-08",
+        "price": "0.48"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 829,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-09",
+        "price": "0.47"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 830,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-10",
+        "price": "0.45"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 831,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-11",
+        "price": "0.45"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 832,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-12",
+        "price": "0.44"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 833,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-13",
+        "price": "0.44"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 834,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-14",
+        "price": "0.44"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 835,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-15",
+        "price": "0.45"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 836,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-16",
+        "price": "0.48"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 837,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-17",
+        "price": "0.51"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 838,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-18",
+        "price": "0.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 839,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-19",
+        "price": "0.48"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 840,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-20",
+        "price": "0.45"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 841,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-21",
+        "price": "0.46"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 842,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-22",
+        "price": "0.45"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 843,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-23",
+        "price": "0.45"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 844,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-24",
+        "price": "0.46"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 845,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-25",
+        "price": "0.46"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 846,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-26",
+        "price": "0.45"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 847,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-27",
+        "price": "0.45"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 848,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-28",
+        "price": "0.45"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 849,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-29",
+        "price": "0.45"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 850,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-30",
+        "price": "0.45"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 851,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-07-31",
+        "price": "0.44"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 852,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-01",
+        "price": "0.45"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 853,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-02",
+        "price": "0.43"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 854,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-03",
+        "price": "0.44"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 855,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-04",
+        "price": "0.43"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 856,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-05",
+        "price": "0.43"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 857,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-06",
+        "price": "0.41"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 858,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-07",
+        "price": "0.38"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 859,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-08",
+        "price": "0.33"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 860,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-09",
+        "price": "0.35"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 861,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-10",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 862,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-11",
+        "price": "0.30"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 863,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-12",
+        "price": "0.30"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 864,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-13",
+        "price": "0.28"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 865,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-14",
+        "price": "0.27"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 866,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-15",
+        "price": "0.28"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 867,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-16",
+        "price": "0.29"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 868,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-17",
+        "price": "0.37"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 869,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-18",
+        "price": "0.33"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 870,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-19",
+        "price": "0.34"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 871,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-20",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 872,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-21",
+        "price": "0.34"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 873,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-22",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 874,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-23",
+        "price": "0.33"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 875,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-24",
+        "price": "0.33"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 876,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-25",
+        "price": "0.33"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 877,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-26",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 878,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-27",
+        "price": "0.34"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 879,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-28",
+        "price": "0.35"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 880,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-29",
+        "price": "0.34"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 881,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-30",
+        "price": "0.34"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 882,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-08-31",
+        "price": "0.34"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 883,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-01",
+        "price": "0.35"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 884,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-02",
+        "price": "0.34"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 885,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-03",
+        "price": "0.34"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 886,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-04",
+        "price": "0.33"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 887,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-05",
+        "price": "0.28"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 888,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-06",
+        "price": "0.30"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 889,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-07",
+        "price": "0.29"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 890,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-08",
+        "price": "0.28"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 891,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-09",
+        "price": "0.28"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 892,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-10",
+        "price": "0.27"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 893,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-11",
+        "price": "0.26"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 894,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-12",
+        "price": "0.27"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 895,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-13",
+        "price": "0.28"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 896,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-14",
+        "price": "0.28"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 897,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-15",
+        "price": "0.28"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 898,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-16",
+        "price": "0.28"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 899,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-17",
+        "price": "0.27"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 900,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-18",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 901,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-19",
+        "price": "0.33"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 902,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-20",
+        "price": "0.45"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 903,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-21",
+        "price": "0.56"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 904,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-22",
+        "price": "0.57"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 905,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-23",
+        "price": "0.57"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 906,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-24",
+        "price": "0.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 907,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-25",
+        "price": "0.53"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 908,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-26",
+        "price": "0.52"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 909,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-27",
+        "price": "0.54"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 910,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-28",
+        "price": "0.54"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 911,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-29",
+        "price": "0.57"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 912,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-09-30",
+        "price": "0.58"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 913,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-01",
+        "price": "0.58"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 914,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-02",
+        "price": "0.52"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 915,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-03",
+        "price": "0.53"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 916,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-04",
+        "price": "0.53"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 917,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-05",
+        "price": "0.52"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 918,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-06",
+        "price": "0.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 919,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-07",
+        "price": "0.48"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 920,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-08",
+        "price": "0.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 921,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-09",
+        "price": "0.48"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 922,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-10",
+        "price": "0.46"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 923,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-11",
+        "price": "0.38"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 924,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-12",
+        "price": "0.42"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 925,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-13",
+        "price": "0.42"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 926,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-14",
+        "price": "0.40"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 927,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-15",
+        "price": "0.45"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 928,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-16",
+        "price": "0.47"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 929,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-17",
+        "price": "0.47"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 930,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-18",
+        "price": "0.46"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 931,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-19",
+        "price": "0.45"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 932,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-20",
+        "price": "0.46"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 933,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-21",
+        "price": "0.46"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 934,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-22",
+        "price": "0.45"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 935,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-23",
+        "price": "0.46"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 936,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-24",
+        "price": "0.46"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 937,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-25",
+        "price": "0.46"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 938,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-26",
+        "price": "0.46"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 939,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-27",
+        "price": "0.46"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 940,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-28",
+        "price": "0.46"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 941,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-29",
+        "price": "0.44"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 942,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-30",
+        "price": "0.44"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 943,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-10-31",
+        "price": "0.45"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 944,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-01",
+        "price": "0.46"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 945,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-02",
+        "price": "0.46"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 946,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-03",
+        "price": "0.46"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 947,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-04",
+        "price": "0.46"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 948,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-05",
+        "price": "0.50"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 949,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-06",
+        "price": "0.55"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 950,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-07",
+        "price": "0.54"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 951,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-08",
+        "price": "0.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 952,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-09",
+        "price": "0.50"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 953,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-10",
+        "price": "0.51"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 954,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-11",
+        "price": "0.51"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 955,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-12",
+        "price": "0.52"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 956,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-13",
+        "price": "0.51"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 957,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-14",
+        "price": "0.47"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 958,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-15",
+        "price": "0.48"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 959,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-16",
+        "price": "0.47"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 960,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-17",
+        "price": "0.49"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 961,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-18",
+        "price": "0.51"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 962,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-19",
+        "price": "0.48"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 963,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-20",
+        "price": "0.43"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 964,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-21",
+        "price": "0.45"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 965,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-22",
+        "price": "0.43"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 966,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-23",
+        "price": "0.41"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 967,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-24",
+        "price": "0.38"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 968,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-25",
+        "price": "0.37"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 969,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-26",
+        "price": "0.36"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 970,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-27",
+        "price": "0.36"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 971,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-28",
+        "price": "0.39"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 972,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-29",
+        "price": "0.38"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 973,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-11-30",
+        "price": "0.36"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 974,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-01",
+        "price": "0.37"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 975,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-02",
+        "price": "0.37"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 976,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-03",
+        "price": "0.35"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 977,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-04",
+        "price": "0.35"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 978,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-05",
+        "price": "0.34"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 979,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-06",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 980,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-07",
+        "price": "0.30"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 981,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-08",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 982,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-09",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 983,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-10",
+        "price": "0.30"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 984,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-11",
+        "price": "0.30"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 985,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-12",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 986,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-13",
+        "price": "0.30"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 987,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-14",
+        "price": "0.29"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 988,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-15",
+        "price": "0.29"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 989,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-16",
+        "price": "0.29"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 990,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-17",
+        "price": "0.33"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 991,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-18",
+        "price": "0.35"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 992,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-19",
+        "price": "0.35"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 993,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-20",
+        "price": "0.38"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 994,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-21",
+        "price": "0.36"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 995,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-22",
+        "price": "0.36"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 996,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-23",
+        "price": "0.37"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 997,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-24",
+        "price": "0.41"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 998,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-25",
+        "price": "0.38"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 999,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-26",
+        "price": "0.38"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1000,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-27",
+        "price": "0.34"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1001,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-28",
+        "price": "0.38"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1002,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-29",
+        "price": "0.37"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1003,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-30",
+        "price": "0.37"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1004,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2018-12-31",
+        "price": "0.35"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1005,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-01",
+        "price": "0.36"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1006,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-02",
+        "price": "0.38"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1007,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-03",
+        "price": "0.36"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1008,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-04",
+        "price": "0.36"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1009,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-05",
+        "price": "0.36"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1010,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-06",
+        "price": "0.37"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1011,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-07",
+        "price": "0.36"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1012,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-08",
+        "price": "0.37"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1013,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-09",
+        "price": "0.37"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1014,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-10",
+        "price": "0.33"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1015,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-11",
+        "price": "0.33"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1016,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-12",
+        "price": "0.33"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1017,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-13",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1018,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-14",
+        "price": "0.33"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1019,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-15",
+        "price": "0.33"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1020,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-16",
+        "price": "0.33"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1021,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-17",
+        "price": "0.33"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1022,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-18",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1023,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-19",
+        "price": "0.33"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1024,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-20",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1025,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-21",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1026,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-22",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1027,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-23",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1028,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-24",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1029,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-25",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1030,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-26",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1031,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-27",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1032,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-28",
+        "price": "0.29"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1033,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-29",
+        "price": "0.29"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1034,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-30",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1035,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-01-31",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1036,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-02-01",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1037,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-02-02",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1038,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-02-03",
+        "price": "0.30"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1039,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-02-04",
+        "price": "0.30"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1040,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-02-05",
+        "price": "0.30"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1041,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-02-06",
+        "price": "0.29"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1042,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-02-07",
+        "price": "0.29"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1043,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-02-08",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1044,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-02-09",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1045,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-02-10",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1046,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-02-11",
+        "price": "0.30"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1047,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-02-12",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1048,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-02-13",
+        "price": "0.30"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1049,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-02-14",
+        "price": "0.30"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1050,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-02-15",
+        "price": "0.30"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1051,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-02-16",
+        "price": "0.30"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1052,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-02-17",
+        "price": "0.30"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1053,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-02-18",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1054,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-02-19",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1055,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-02-20",
+        "price": "0.33"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1056,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-02-21",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1057,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-02-22",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1058,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-02-23",
+        "price": "0.33"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1059,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-02-24",
+        "price": "0.30"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1060,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-02-25",
+        "price": "0.33"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1061,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-02-26",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1062,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-02-27",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1063,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-02-28",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1064,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-01",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1065,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-02",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1066,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-03",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1067,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-04",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1068,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-05",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1069,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-06",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1070,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-07",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1071,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-08",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1072,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-09",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1073,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-10",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1074,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-11",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1075,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-12",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1076,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-13",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1077,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-14",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1078,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-15",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1079,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-16",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1080,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-17",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1081,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-18",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1082,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-19",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1083,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-20",
+        "price": "0.32"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1084,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-21",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1085,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-22",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1086,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-23",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1087,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-24",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1088,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-25",
+        "price": "0.30"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1089,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-26",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1090,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-27",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1091,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-28",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1092,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-29",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1093,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-30",
+        "price": "0.31"
+    }
+}, {
+    "model": "homepage.currencyprice",
+    "pk": 1094,
+    "fields": {
+        "symbol": "XRP",
+        "date": "2019-03-31",
+        "price": "0.31"
+    }
+}]

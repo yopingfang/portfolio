@@ -1,0 +1,51 @@
+<%inherit file="base.htm" />
+<%block name="title">Crypto Search</%block>
+<%block name="content">
+
+    <div id="form_container">
+        
+        <form method="POST">
+            <label for="symbol">Symbol:</label>
+            <select id="symbol-list" name="symbol">
+                <option value="BTC">Bitcoin</option>
+                <option value="ETH">Ethereum</option>
+                <option value="XRP">Ripple</option>
+            </select><br />
+            <label for="start-date">Start Date</label><input type="text" id="start-date" name="start_date"/><br />
+            <label for="end-date">End Date</label><input type="text" id="end-date" name="end_date"/><br />
+            <label for="sort">Sort:</label>
+            <select id="sort-list" name="sort">
+                <option value="symbol">Symbol</option>
+                <option value="date">Date</option>
+                <option value="price">Price (lowest first)</option>
+                <option value="-price">Price (highest first)</option>
+            </select><br /><br />
+            <input type="submit" />
+        </form>
+
+        <div class="text-right">
+            <button class="btn btn-default" id="start_date_button">Set Starting Date</button>
+            <button class="btn btn-default" id="end_date_button">Set Ending Date</button>
+        </div>
+    </div>
+
+    <div id="results_container">
+        <table>
+            <tr>
+                <th>Symbol</th>
+                <th>Date</th>
+                <th>Price</th>
+            </tr>
+            
+            %for p in prices:
+            <tr>
+                <td>${p.symbol}</td>
+                <td>${p.date}</td>
+                <td>${p.price}</td>
+            </tr>
+            %endfor
+            
+        </table>
+    </div>
+
+</%block>

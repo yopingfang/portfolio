@@ -1,0 +1,33 @@
+﻿  Source.cpp
+d:\users\yoping\documents\cs stuff\235\lab9\lab9\map.h(254): warning C4018: '<': signed/unsigned mismatch
+  d:\users\yoping\documents\cs stuff\235\lab9\lab9\map.h(250): note: while compiling class template member function 'std::string Map<std::string,Set<std::string>>::toString(void) const'
+  d:\users\yoping\documents\cs stuff\235\lab9\lab9\source.cpp(83): note: see reference to function template instantiation 'std::string Map<std::string,Set<std::string>>::toString(void) const' being compiled
+  d:\users\yoping\documents\cs stuff\235\lab9\lab9\source.cpp(68): note: see reference to class template instantiation 'Map<std::string,Set<std::string>>' being compiled
+d:\users\yoping\documents\cs stuff\235\lab9\lab9\map.h(225): warning C4018: '<': signed/unsigned mismatch
+  d:\users\yoping\documents\cs stuff\235\lab9\lab9\map.h(223): note: while compiling class template member function 'void Map<std::string,Set<std::string>>::clear(void)'
+d:\users\yoping\documents\cs stuff\235\lab9\lab9\map.h(102): warning C4018: '<': signed/unsigned mismatch
+  d:\users\yoping\documents\cs stuff\235\lab9\lab9\map.h(98): note: while compiling class template member function 'std::string Map<std::string,std::string>::toString(void) const'
+  d:\users\yoping\documents\cs stuff\235\lab9\lab9\source.cpp(53): note: see reference to function template instantiation 'std::string Map<std::string,std::string>::toString(void) const' being compiled
+  d:\users\yoping\documents\cs stuff\235\lab9\lab9\source.cpp(41): note: see reference to class template instantiation 'Map<std::string,std::string>' being compiled
+d:\users\yoping\documents\cs stuff\235\lab9\lab9\map.h(72): warning C4018: '<': signed/unsigned mismatch
+  d:\users\yoping\documents\cs stuff\235\lab9\lab9\map.h(70): note: while compiling class template member function 'void Map<std::string,std::string>::clear(void)'
+d:\users\yoping\documents\cs stuff\235\lab9\lab9\map.h(305): warning C4018: '<': signed/unsigned mismatch
+  d:\users\yoping\documents\cs stuff\235\lab9\lab9\map.h(303): note: while compiling class template member function 'bool Map<std::string,Set<std::string>>::validSize(void)'
+  d:\users\yoping\documents\cs stuff\235\lab9\lab9\map.h(192): note: see reference to function template instantiation 'bool Map<std::string,Set<std::string>>::validSize(void)' being compiled
+d:\users\yoping\documents\cs stuff\235\lab9\lab9\map.h(278): warning C4018: '<': signed/unsigned mismatch
+  d:\users\yoping\documents\cs stuff\235\lab9\lab9\map.h(274): note: while compiling class template member function 'void Map<std::string,Set<std::string>>::resize(void)'
+  d:\users\yoping\documents\cs stuff\235\lab9\lab9\map.h(193): note: see reference to function template instantiation 'void Map<std::string,Set<std::string>>::resize(void)' being compiled
+d:\users\yoping\documents\cs stuff\235\lab9\lab9\map.h(282): warning C4018: '<': signed/unsigned mismatch
+d:\users\yoping\documents\cs stuff\235\lab9\lab9\map.h(295): warning C4018: '<': signed/unsigned mismatch
+d:\users\yoping\documents\cs stuff\235\lab9\lab9\map.h(153): warning C4018: '<': signed/unsigned mismatch
+  d:\users\yoping\documents\cs stuff\235\lab9\lab9\map.h(151): note: while compiling class template member function 'bool Map<std::string,std::string>::validSize(void)'
+  d:\users\yoping\documents\cs stuff\235\lab9\lab9\map.h(52): note: see reference to function template instantiation 'bool Map<std::string,std::string>::validSize(void)' being compiled
+d:\users\yoping\documents\cs stuff\235\lab9\lab9\map.h(126): warning C4018: '<': signed/unsigned mismatch
+  d:\users\yoping\documents\cs stuff\235\lab9\lab9\map.h(122): note: while compiling class template member function 'void Map<std::string,std::string>::resize(void)'
+  d:\users\yoping\documents\cs stuff\235\lab9\lab9\map.h(53): note: see reference to function template instantiation 'void Map<std::string,std::string>::resize(void)' being compiled
+d:\users\yoping\documents\cs stuff\235\lab9\lab9\map.h(130): warning C4018: '<': signed/unsigned mismatch
+d:\users\yoping\documents\cs stuff\235\lab9\lab9\map.h(143): warning C4018: '<': signed/unsigned mismatch
+d:\users\yoping\documents\cs stuff\235\lab9\lab9\set.h(48): warning C4715: 'Set<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::addNode': not all control paths return a value
+d:\users\yoping\documents\cs stuff\235\lab9\lab9\set.h(125): warning C4715: 'Set<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::findItem': not all control paths return a value
+  Lab9.vcxproj -> D:\Users\Yoping\Documents\CS Stuff\235\Lab9\Debug\Lab9.exe
+  Lab9.vcxproj -> D:\Users\Yoping\Documents\CS Stuff\235\Lab9\Debug\Lab9.pdb (Partial PDB)

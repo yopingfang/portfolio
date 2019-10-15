@@ -1,0 +1,26 @@
+﻿@model FinalExam.Models.Question
+
+@{
+    ViewBag.Title = "Answer";
+}
+
+<h2>@Html.DisplayFor(x => x.Category.CategoryDesc)</h2>
+<h3>@ViewBag.User</h3>
+
+<h4>Options:</h4>
+<ul>
+    <li>1. @Html.DisplayFor(x => x.Answer1)</li>
+    <li>2. @Html.DisplayFor(x => x.Answer2)</li>
+    <li>3. @Html.DisplayFor(x => x.Answer3)</li>
+    <li>4. @Html.DisplayFor(x => x.Answer4)</li>
+</ul>
+
+@using (Html.BeginForm())
+{
+    <input type="hidden" name="id" value="@ViewBag.QID" />
+
+    <label for="userAnswer">Your Answer:</label>
+    @*@Html.TextBox("userAnswer")*@
+    <input type="text" name="userAnswer" />
+    <button type="submit">Submit</button>
+}

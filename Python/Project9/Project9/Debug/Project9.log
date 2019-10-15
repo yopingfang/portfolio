@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\yoping\source\repos\project9\project9\source.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\yoping\source\repos\project9\project9\source.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\yoping\source\repos\project9\project9\source.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\yoping\source\repos\project9\project9\source.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\yoping\source\repos\project9\project9\source.cpp(11): warning C4101: 'stringFound': unreferenced local variable
+LINK : fatal error LNK1168: cannot open C:\Users\Yoping\source\repos\Project9\Debug\Project9.exe for writing

@@ -1,0 +1,122 @@
+﻿@model IEnumerable<BlowOut.Models.Instruments>
+@{
+    ViewBag.Title = "Rentals";
+    ViewBag.Header = "Rent an Instrument";
+    //ViewBag.HasItems = "false";
+}
+
+<div class="jumbotron">
+    <p class="text-info" style="text-align: center">
+        After renting an instrument for 18 months, you own instrument. 
+       </p>
+    <p class="text-info" style="text-align: center">
+        If you return it at any time before 3 months, there will be a $200 re-stocking fee. 
+    </p>
+    <p class="text-info" style="text-align: center">
+        If you return it after 3 months, you forfeit any equity in the instrument.
+    </p>
+</div>
+
+<div class="jumbotron">
+
+    @if (ViewBag.Instrument == "default")
+    {
+        <div class="container">
+            <div class="row">
+                <div class="col-4">
+                    <p class="instr-title">Trumpet</p>
+                    <a href="@Url.Action("Rentals", "Home", new { instrument = "trumpet" })"><img src="~/Content/images/trumpet_sq.jpg" class="full-img"/></a>
+                </div>
+                <div class="col-4">
+                    <p class="instr-title">Trombone</p>
+                    <a href="@Url.Action("Rentals", "Home", new {instrument = "trombone"})"><img src="~/Content/images/trombone_sq.jpg" class="full-img" /></a>
+                </div>
+                <div class="col-4">
+                    <p class="instr-title">Tuba</p>
+                    <a href="@Url.Action("Rentals", "Home", new {instrument = "tuba"})"><img src="~/Content/images/tuba_sq.jpg" class="full-img" /></a>
+                </div>
+            </div>
+            <br /><br/><br/>
+            <div class="row">
+                <div class="col-4">
+                    <p class="instr-title">Flute</p>
+                    <a href="@Url.Action("Rentals", "Home", new {instrument = "flute"})"><img src="~/Content/images/flute_sq.jpg" class="full-img" /></a>
+                </div>
+                <div class="col-4">
+                    <p class="instr-title">Clarinet</p>
+                    <a href="@Url.Action("Rentals", "Home", new {instrument = "clarinet"})"><img src="~/Content/images/clarinet_sq.jpg" class="full-img" /></a>
+                </div>
+                <div class="col-4">
+                    <p class="instr-title">Saxophone</p>
+                    <a href="@Url.Action("Rentals", "Home", new { instrument = "saxophone" })"><img src="~/Content/images/sax_sq.jpg" class="full-img" /></a>
+                </div>
+            </div>
+        </div>
+    }
+    @if (ViewBag.Instrument != "default")
+    {
+        <h1>@ViewBag.Name</h1>
+        <div class="row">
+            <div class="col-4">
+                @if (ViewBag.Name == "Trumpet")
+                {<img src="~/Content/images/trumpet_sq.jpg" class="full-img"/>}
+                @if (ViewBag.Name == "Trombone")
+                {<img src="~/Content/images/trombone_sq.jpg" class="full-img" />}
+                @if (ViewBag.Name == "Tuba")
+                {<img src="~/Content/images/tuba_sq.jpg" class="full-img" />}
+                @if (ViewBag.Name == "Flute")
+                {<img src="~/Content/images/flute_sq.jpg" class="full-img" />}
+                @if (ViewBag.Name == "Clarinet")
+                {<img src="~/Content/images/clarinet_sq.jpg" class="full-img" />}
+                @if (ViewBag.Name == "Saxophone")
+                {<img src="~/Content/images/sax_sq.jpg" class="full-img" />}
+                
+            </div>
+            <div class="col-8">
+                <h3>Instruments Available to Rent</h3>
+                <br />
+                <table>
+                    <tr>
+                        <th style="padding-right: 5em">Type</th>
+                        <th style="padding-right: 5em">Price</th>
+                        <th></th>
+                    </tr>
+                    
+                    @foreach (var item in Model)
+                    {
+                        if (item.instName == ViewBag.Name && item.clientID == null)
+                        {
+                            <tr>
+                                <td>@Html.DisplayFor(modelItem => item.instType)</td>
+                                <td>@Html.DisplayFor(modelItem => item.price)</td>
+                                
+                                <td>@Html.ActionLink("Rent", "Create", new { ID = item.instrumentID })</td>
+                            </tr>
+                            @*@ViewBag.HasItems = "true";*@
+                        }
+                        
+                    }
+                    @*@if (ViewBag.HasItems != "true")
+                    {
+                        <caption>There are currently no @ViewBag.Names available to purchase</caption>
+                    }*@
+
+                </table>
+                @*<div class="row">
+                    <div class="col-6">
+                        <a href="@Url.Action("IsNew", "Home")">New Instrument Pricing</a>
+                    </div>
+                    <div class="col-6">
+                        <a href="@Url.Action("IsUsed", "Home")">Used Instrument Pricing</a>
+                    </div>
+                </div>
+                <br />
+                <br />
+                <p>@ViewBag.Price</p>*@
+            </div>
+        </div>
+    }
+
+
+</div>
+

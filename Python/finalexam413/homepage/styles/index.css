@@ -1,0 +1,29 @@
+#form_container {
+    float: left;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #CCCCCC;
+    margin-right: 40px;
+    padding: 12px;
+    width: 500px;
+    border-radius: 8px;
+
+    /* * give the container a 8px radius */
+}
+
+td {
+
+    border-width: 1px;
+    border-style: solid;
+    border-color: #CCCCCC;
+    padding: 12px;
+
+    /* * Cells should have a 1px border, solid line, #CCCCCC color
+    * Cells should have 12px of padding on all sides
+    * The header row should be bold text with no borders */
+}
+
+th {
+    padding: 12px;
+    font-weight: bold;
+}

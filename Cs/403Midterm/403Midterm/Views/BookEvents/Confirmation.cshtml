@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewBag.Title = "Confirmation";
+}
+
+<h2>Confirmation</h2>
+
+<p>Thank you @ViewBag.Name</p>
+<p>Your Catering package is @(ViewBag.Catering == "1" ? "Package 1 - $15.95" : (ViewBag.Catering == "2" ? "Package 2 - $14.50" : "Package 3 - $12.95"))
+    and your Entertainment package is @(ViewBag.Ent == "1" ? "Package 1 - $350 without fire" : "Package 2 - $500 with fire")</p>
+<p>We will send confirmation details to @ViewBag.Email</p>

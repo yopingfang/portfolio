@@ -1,0 +1,158 @@
+﻿@model IEnumerable<BlowOut.Models.Instruments>
+
+@{
+    ViewBag.Title = "Update Data";
+    ViewBag.Header = "Update Data";
+}
+
+@if (ViewBag.CanAccess == "false")
+{
+    using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <h4>Enter username and password:</h4>
+            <hr />
+            @*@Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group">
+                @Html.LabelFor(model => model.firstName, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(new { string name }, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.firstName, "", new { @class = "text-danger" })
+                </div>
+            </div>*@
+            <div class="form-group">Username <input type="text" name="name" /></div>
+            <br />
+            <div class="form-group">Password <input type="text" name="pass" /></div>
+            
+            <br />
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Create" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    }
+
+}
+else
+{
+    <h4>Instruments</h4>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.instName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.instType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.clientID)
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.instName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.instType)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.clientID)
+                </td>
+                
+            </tr>
+        }
+
+    </table>
+
+    <h4>Clients</h4>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Clients.clientID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Clients.firstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Clients.lastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Clients.email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Clients.phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Clients.address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Clients.city)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Clients.state)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Clients.zip)
+            </th>
+
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            if (item.clientID != null)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Clients.clientID)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Clients.firstName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Clients.lastName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Clients.email)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Clients.phone)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Clients.address)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Clients.city)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Clients.state)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Clients.zip)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.Clients.clientID }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.Clients.clientID })
+                    </td>
+                </tr>
+            }
+
+
+        }
+    </table>
+
+
+}
